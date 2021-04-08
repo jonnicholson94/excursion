@@ -1,0 +1,31 @@
+
+body {
+    background-color: black;
+    text-align: center;
+    color: white;
+}
+
+.main-title, .secondary-heading, .heading-content {
+    font-family: Verdana;
+}
+
+.main-title {
+    font-weight: normal;
+    font-size: 50px;
+    text-align: center;
+}
+
+.secondary-heading {
+    font-weight: 300;
+    font-size: 42px;
+}
+
+.heading-content {
+    font-size: 21px;
+    color: gray;
+}
+
+.download-link {
+    color: aquamarine;
+    font-size: 16px;
+}
